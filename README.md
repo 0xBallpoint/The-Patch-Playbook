@@ -19,6 +19,7 @@ Chaque contribution doit respecter le format suivant pour maintenir la cohérenc
 - Titre clair décrivant la vulnérabilité à corriger et le contexte (langage, plateforme).
 - Description de la solution avec des étapes précises et détaillées.
 - Exemples de code ou de configuration (si applicable).
+- Capture d'écrans (si possible).
 - Références à des ressources externes (RFC, documents officiels, etc.).
 
 ## Comment Participer
