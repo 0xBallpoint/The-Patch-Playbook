@@ -1,4 +1,4 @@
-# Recommandations en Cybersécurité : Implémentation des Correctifs
+# The Patch Playbook
 
 Ce projet centralise des guides détaillés pour l'implémentation des correctifs de vulnérabilités en cybersécurité. L'objectif est de fournir des étapes pratiques et actionnables pour corriger les failles de sécurité, classées par type de vulnérabilité et spécificités (langage de programmation, plateforme, etc.).
 
